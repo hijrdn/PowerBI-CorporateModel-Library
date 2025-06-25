@@ -1,0 +1,6 @@
+-- Table: Rolling 12 Months of Data
+Rolling_12M =
+FILTER (
+    FactTable,
+    FactTable[Date] >= DATEADD ( TODAY(), -12, MONTH )
+)

@@ -1,0 +1,3 @@
+-- Measure: Gross Profit
+-- Calculates gross profit as Revenue - COGS
+Gross_Profit = [Revenue] - [COGS]
