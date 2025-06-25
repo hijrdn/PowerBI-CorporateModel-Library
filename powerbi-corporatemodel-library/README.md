@@ -25,7 +25,7 @@ This repository serves as a reusable library for speeding up Power BI developmen
 
 ### Clone the repository
 ```bash
-git clone https://github.com/your-username/powerbi-reuse-library.git
+git clone https://github.com/hijrdn/PowerBI-CorporateModel-Library.git
 ```
 
 ### Or download manually
